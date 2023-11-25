@@ -1,7 +1,7 @@
 
 # FourCompSlurryModel
 
-Implementation of the [4-Component Slurry Model](https://www.ksb.com/en-us/services/service-for-slurry-pumps/hydraulic-lab) in python.
+Python implementation of the [4-Component Slurry Model](https://www.ksb.com/en-us/services/service-for-slurry-pumps/hydraulic-lab).
 
 ![friction-loss](ref/friction-loss.png)
 The four slurry flow regimes are:
